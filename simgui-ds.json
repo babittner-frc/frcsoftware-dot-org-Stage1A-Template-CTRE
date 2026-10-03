@@ -1,18 +1,21 @@
 {
+  "Display": {"window": {"visible": false}},
+  "Keyboard 0 Settings": {"window": {"visible": true}},
   "keyboardJoysticks": [{
     "axisConfig": [{}, {
       "decKey": 568,
       "incKey": 564
     }, {
-      "decKey": 549,
       "decayRate": 1,
-      "incKey": 546,
       "keyRate": 1
     }, {
       "decayRate": 1,
       "keyRate": 1
+    }, {
+      "decKey": 546,
+      "incKey": 549
     }],
-    "axisCount": 3,
+    "axisCount": 5,
     "buttonCount": 11,
     "buttonKeys": [563, -1, -1, -1, -1, -1, -1, -1, -1, 550, 562],
     "povConfig": [{
